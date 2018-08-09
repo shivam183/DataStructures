@@ -1,0 +1,10 @@
+C:\Programming 3\Shivam-Sood_Lab04Sec003\ListTest\bin\Debug\ListTest.exe.config
+C:\Programming 3\Shivam-Sood_Lab04Sec003\ListTest\bin\Debug\ListTest.exe
+C:\Programming 3\Shivam-Sood_Lab04Sec003\ListTest\bin\Debug\ListTest.pdb
+C:\Programming 3\Shivam-Sood_Lab04Sec003\ListTest\bin\Debug\Shivam-Sood_Lab04_Ex01.dll
+C:\Programming 3\Shivam-Sood_Lab04Sec003\ListTest\bin\Debug\Shivam-Sood_Lab04_Ex01.pdb
+C:\Programming 3\Shivam-Sood_Lab04Sec003\ListTest\obj\Debug\ListTest.csprojResolveAssemblyReference.cache
+C:\Programming 3\Shivam-Sood_Lab04Sec003\ListTest\obj\Debug\ListTest.csproj.CoreCompileInputs.cache
+C:\Programming 3\Shivam-Sood_Lab04Sec003\ListTest\obj\Debug\ListTest.csproj.CopyComplete
+C:\Programming 3\Shivam-Sood_Lab04Sec003\ListTest\obj\Debug\ListTest.exe
+C:\Programming 3\Shivam-Sood_Lab04Sec003\ListTest\obj\Debug\ListTest.pdb

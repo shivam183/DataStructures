@@ -1,0 +1,12 @@
+C:\Programming 3\Shivam-Sood_Lab04Sec003\StackInheritanceTest\bin\Debug\StackInheritanceTest.exe.config
+C:\Programming 3\Shivam-Sood_Lab04Sec003\StackInheritanceTest\bin\Debug\StackInheritanceTest.exe
+C:\Programming 3\Shivam-Sood_Lab04Sec003\StackInheritanceTest\bin\Debug\StackInheritanceTest.pdb
+C:\Programming 3\Shivam-Sood_Lab04Sec003\StackInheritanceTest\bin\Debug\Shivam-Sood_Lab04_Ex01.dll
+C:\Programming 3\Shivam-Sood_Lab04Sec003\StackInheritanceTest\bin\Debug\Shivam-Sood_Lab04_Ex02.dll
+C:\Programming 3\Shivam-Sood_Lab04Sec003\StackInheritanceTest\bin\Debug\Shivam-Sood_Lab04_Ex01.pdb
+C:\Programming 3\Shivam-Sood_Lab04Sec003\StackInheritanceTest\bin\Debug\Shivam-Sood_Lab04_Ex02.pdb
+C:\Programming 3\Shivam-Sood_Lab04Sec003\StackInheritanceTest\obj\Debug\StackInheritanceTest.csprojResolveAssemblyReference.cache
+C:\Programming 3\Shivam-Sood_Lab04Sec003\StackInheritanceTest\obj\Debug\StackInheritanceTest.csproj.CoreCompileInputs.cache
+C:\Programming 3\Shivam-Sood_Lab04Sec003\StackInheritanceTest\obj\Debug\StackInheritanceTest.csproj.CopyComplete
+C:\Programming 3\Shivam-Sood_Lab04Sec003\StackInheritanceTest\obj\Debug\StackInheritanceTest.exe
+C:\Programming 3\Shivam-Sood_Lab04Sec003\StackInheritanceTest\obj\Debug\StackInheritanceTest.pdb
